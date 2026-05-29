@@ -1,0 +1,36 @@
+stuff/
+obj/
+bin/
+examples/obj/
+examples/bin/
+src/*.o
+
+token.md
+# Objetos y ejecutables
+*.o
+*.exe
+*.out
+*.a
+*.so
+.DS_Store
+
+logs/*
+obj/*
+# Archivos temporales
+*.swp
+*.swo
+*~
+*.d
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+fix.sh
+build/
+bin/*
+obj/*
+build/*
+prompt.md
+
